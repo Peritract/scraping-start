@@ -7,6 +7,8 @@ name = "pypi"
 bs4 = "*"
 pandas = "*"
 ipykernel = "*"
+requests = "*"
+selenium = "*"
 
 [dev-packages]
 

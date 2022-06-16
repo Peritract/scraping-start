@@ -22,6 +22,8 @@ pipenv install
 python -m ipykernel install --user --name=`basename $VIRTUAL_ENV`
 ```
 
+4. Download the appropriate [Chromedriver](https://chromedriver.chromium.org/downloads) and placed the (extracted) file in this directory
+
 ## Development
 
 Ensure that you are in the appropriate environment (`pipenv shell`). Then,
