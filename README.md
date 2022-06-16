@@ -1,4 +1,4 @@
-# Data start
+# Scraping start
 
 This repository contains initial setup, installation, and organisation for exploring web scraping.
 
